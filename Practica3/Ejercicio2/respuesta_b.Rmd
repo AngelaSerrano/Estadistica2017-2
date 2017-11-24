@@ -1,0 +1,3 @@
+#Nombre: Angela Serrano Sanchez 20151371B
+## Respuesta al item b
+### Para R, el tipo de valor NA es tomado como 'no disponible' y cualquier operación ya sea aritmetica, logica, etc. dará como resultado valores NA

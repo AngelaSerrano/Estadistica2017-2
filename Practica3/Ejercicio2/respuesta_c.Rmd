@@ -1,0 +1,3 @@
+#Nombre: Angela Serrano Sanchez 20151371B
+## Respuesta al item b
+### Como mtcars es un data.frame, si queremos mostrar alguna parte de mtcars debemos tratarlo como un array, pero recordando que por ser data.frame contiene distintos tipos de valores.
